@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/levis-clone/static/css/main.4704e849.css",
+    "main.js": "/levis-clone/static/js/main.6159d57d.js",
+    "static/js/453.4764de77.chunk.js": "/levis-clone/static/js/453.4764de77.chunk.js",
+    "static/media/LargeBanner.webp": "/levis-clone/static/media/LargeBanner.14124f8c059485628790.webp",
+    "static/media/Banner3.webp": "/levis-clone/static/media/Banner3.ce8d6e7f9a2aeb8ce75b.webp",
+    "static/media/banner1.webp": "/levis-clone/static/media/banner1.963df4b926bf447ab25d.webp",
+    "static/media/Banner2.webp": "/levis-clone/static/media/Banner2.62006fd7af73c7af5eb7.webp",
+    "static/media/bootstrap-icons.woff?": "/levis-clone/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/levis-clone/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/JEAN1.jpg": "/levis-clone/static/media/JEAN1.d2fe132491b80978fc25.jpg",
+    "static/media/LargeBanner1.webp": "/levis-clone/static/media/LargeBanner1.0d341995612869682374.webp",
+    "static/media/shopAccessories.webp": "/levis-clone/static/media/shopAccessories.e5b0160ef28348b29137.webp",
+    "static/media/JEAN4.webp": "/levis-clone/static/media/JEAN4.aa6391de0b9853e8dd06.webp",
+    "static/media/JEAN3.webp": "/levis-clone/static/media/JEAN3.1b0ff45ba3b3c818ad5f.webp",
+    "static/media/LevisREDTAB.png": "/levis-clone/static/media/LevisREDTAB.891d6a0a3ea85a3398eb.png",
+    "static/media/JEAN2.webp": "/levis-clone/static/media/JEAN2.53b3ab5b6b82d1fbe108.webp",
+    "static/media/bag1.webp": "/levis-clone/static/media/bag1.44b6aefb0842c4be1e20.webp",
+    "static/media/male.webp": "/levis-clone/static/media/male.44c9dc2d23d4cd2c4d05.webp",
+    "static/media/bag2.webp": "/levis-clone/static/media/bag2.79efc3f190d7c29e094c.webp",
+    "static/media/bag3.webp": "/levis-clone/static/media/bag3.7d3d4a1fb9e280471963.webp",
+    "static/media/slick.svg": "/levis-clone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/levis-clone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/levis-clone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/levis-clone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/levis-clone/index.html",
+    "main.4704e849.css.map": "/levis-clone/static/css/main.4704e849.css.map",
+    "main.6159d57d.js.map": "/levis-clone/static/js/main.6159d57d.js.map",
+    "453.4764de77.chunk.js.map": "/levis-clone/static/js/453.4764de77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4704e849.css",
+    "static/js/main.6159d57d.js"
+  ]
+}
